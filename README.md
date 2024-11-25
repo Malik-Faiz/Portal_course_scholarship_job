@@ -19,21 +19,11 @@ EduNavigator is a Laravel-based portal that provides information on **offered co
 - Discover job opportunities tailored for students and professionals.
 - View job descriptions, qualifications, and application processes.
 
-<<<<<<< HEAD
 ### 4. **Home Page**
-=======
-### 4. **Admin Dashboard**
-- The admin dashboard for managing courses, scholarships, and job opportunities.
-- **Screenshot**:  
-  ![Admin Dashboard](public/images/Admindashboard.JPG)
-
-### 5. **Home Page**
->>>>>>> 78ee157783a78cb4bcba4213a2e4af98519dbe31
 - The homepage of EduNavigator, featuring the main navigation and user-friendly layout.
 - **Screenshot**:  
   ![Home Page](public/images/Home.JPG)
 
-<<<<<<< HEAD
 ### 5. **User Registration and Login**
 - Secure registration and login for personalized access.
 - **Screenshot**:  
@@ -43,12 +33,6 @@ EduNavigator is a Laravel-based portal that provides information on **offered co
 - The admin dashboard for managing courses, scholarships, and job opportunities.
 - **Screenshot**:  
   ![Admin Dashboard](public/images/Admindashboard.JPG)
-=======
-### 6. **User Registration and Login**
-- Secure registration and login for personalized access.
-- **Screenshot**:  
-  ![User Authentication](public/images/login.JPG)
->>>>>>> 78ee157783a78cb4bcba4213a2e4af98519dbe31
 
 ---
 
