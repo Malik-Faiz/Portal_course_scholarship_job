@@ -22,17 +22,17 @@ EduNavigator is a Laravel-based portal that provides information on **offered co
 ### 4. **Admin Dashboard**
 - The admin dashboard for managing courses, scholarships, and job opportunities.
 - **Screenshot**:  
-  ![Admin Dashboard](public/images/Admindashboard.jpg)
+  ![Admin Dashboard](public/images/Admindashboard.JPG)
 
 ### 5. **Home Page**
 - The homepage of EduNavigator, featuring the main navigation and user-friendly layout.
 - **Screenshot**:  
-  ![Home Page](public/images/Home.jpg)
+  ![Home Page](public/images/Home.JPG)
 
 ### 6. **User Registration and Login**
 - Secure registration and login for personalized access.
 - **Screenshot**:  
-  ![User Authentication](public/images/login.jpg)
+  ![User Authentication](public/images/login.JPG)
 
 ---
 
